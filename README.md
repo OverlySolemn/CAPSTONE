@@ -1,1 +1,1 @@
-# CAPSTONE
+Jace's sample of read me and test 
